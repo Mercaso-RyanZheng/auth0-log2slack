@@ -1,0 +1,7 @@
+{
+  "secrets": {
+    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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"
+  },
+  "schedule": "0 */5 * * * *",
+  "storage": true
+}
